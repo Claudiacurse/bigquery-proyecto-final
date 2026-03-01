@@ -1,0 +1,31 @@
+id_venta,fecha,region,categoria,producto,cantidad,precio_unitario,descuento_pct,vendedor
+1,2024-01-05,Lima,Computadoras,Laptop ProBook 450,2,1200.00,0,Carlos Mendoza
+2,2024-01-10,Lima,Monitores,Monitor UltraWide,3,350.00,5,Ana Torres
+3,2024-01-12,Arequipa,Periféricos,Teclado Mecánico,5,80.00,0,Luis García
+4,2024-01-18,Arequipa,Periféricos,Mouse Inalámbrico,10,25.00,10,Luis García
+5,2024-01-20,Trujillo,Accesorios,Webcam HD 1080p,4,90.00,0,Jorge Silva
+6,2024-02-03,Lima,Computadoras,Laptop ProBook 450,1,1200.00,0,Carlos Mendoza
+7,2024-02-08,Arequipa,Monitores,Monitor UltraWide,2,350.00,5,Luis García
+8,2024-02-14,Trujillo,Computadoras,Laptop ProBook 450,1,1200.00,0,Jorge Silva
+9,2024-02-21,Lima,Accesorios,Headset Gamer,6,120.00,10,Ana Torres
+10,2024-03-01,Trujillo,Periféricos,Teclado Mecánico,3,80.00,0,Jorge Silva
+11,2024-03-05,Lima,Monitores,Monitor UltraWide,2,350.00,0,Carlos Mendoza
+12,2024-03-10,Arequipa,Accesorios,Webcam HD 1080p,1,90.00,0,Rosa Paredes
+13,2024-03-15,Lima,Almacenamiento,SSD 1TB,1,200.00,0,Ana Torres
+14,2024-03-20,Trujillo,Accesorios,Hub USB-C 7 puertos,2,65.00,5,Jorge Silva
+15,2024-03-25,Lima,Accesorios,Headset Gamer,3,120.00,0,Carlos Mendoza
+16,2024-04-02,Arequipa,Computadoras,Laptop ProBook 450,1,1200.00,10,Luis García
+17,2024-04-10,Lima,Periféricos,Mouse Inalámbrico,8,25.00,0,Ana Torres
+18,2024-04-18,Trujillo,Monitores,Monitor UltraWide,1,350.00,0,Jorge Silva
+19,2024-04-22,Lima,Almacenamiento,SSD 1TB,2,200.00,5,Carlos Mendoza
+20,2024-04-30,Arequipa,Accesorios,Headset Gamer,3,120.00,0,Rosa Paredes
+21,2024-05-05,Lima,Computadoras,Laptop ProBook 450,2,1200.00,0,Ana Torres
+22,2024-05-12,Trujillo,Periféricos,Teclado Mecánico,4,80.00,10,Jorge Silva
+23,2024-05-20,Arequipa,Monitores,Monitor UltraWide,2,350.00,0,Luis García
+24,2024-05-28,Lima,Accesorios,Webcam HD 1080p,5,90.00,0,Carlos Mendoza
+25,2024-06-03,Lima,Periféricos,Mouse Inalámbrico,12,25.00,0,Ana Torres
+26,2024-06-10,Arequipa,Almacenamiento,SSD 1TB,1,200.00,0,Rosa Paredes
+27,2024-06-18,Trujillo,Accesorios,Hub USB-C 7 puertos,3,65.00,0,Jorge Silva
+28,2024-06-25,Lima,Computadoras,Laptop ProBook 450,1,1200.00,5,Carlos Mendoza
+29,2024-07-02,Arequipa,Periféricos,Teclado Mecánico,6,80.00,0,Luis García
+30,2024-07-10,Lima,Monitores,Monitor UltraWide,4,350.00,0,Ana Torres
